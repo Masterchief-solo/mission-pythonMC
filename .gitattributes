@@ -1,0 +1,10 @@
+# Normalize line endings to LF (avoids CRLF churn between Windows and WSL)
+* text=auto eol=lf
+
+# Binary assets
+*.png binary
+*.jpg binary
+*.gif binary
+*.ogg binary
+*.wav binary
+*.mp3 binary
