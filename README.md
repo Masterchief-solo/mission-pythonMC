@@ -1,4 +1,4 @@
-# Mission Python
+# Mission Escape
 Mission Python, Masterchief Edition. A space adventure game built with Python! Based on *Mission Python* by Sean McManus.
 Built with [Pygame Zero](https://pygame-zero.readthedocs.io/).
 
